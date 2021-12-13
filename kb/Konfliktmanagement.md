@@ -54,8 +54,7 @@ Im Folgenden ist eine solche RASIC [Matrix] (https://wirtschaftslexikon.gabler.d
 *Rasic-Matrix*
 
 
-Hier ist gut erkennbar, dass durch eine solche [Matrix](Matrix_Projektorganisation.md) vereinfacht dargestellt werden kann, 
-welcher Mitarbeiter für welche Tätigkeit zuständig ist.
+Hier ist erkennbar, dass durch eine [Matrix](Matrix_Projektorganisation.md) vorab Ausseinandersetzungen bezüglich der Rollenverteilung, die während eines Projekts oftmals enstehen, vermeiden werden können. "Sollte es nun doch zu Uneinigkeiten in Bezug auf die Aufgabenverantwortlichkeiten kommen, ist die Erstellung einer RASIC-Matrix ein gutes Instrument, um Transparenz und Klärung herbeizuführen." [^8]
 
 
 # 2. Fazit und Kritik am Konfliktmanagement in Bezug auf das klassische und agile Projektmanagement
